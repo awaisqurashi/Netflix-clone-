@@ -1,0 +1,242 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.main-container{
+    width: 100%;
+    height: 100%;
+}
+
+.container 
+{
+   
+   height: 692px;
+   opacity: 0.9;
+   height: 692px;
+   background-image:url(https://assets.nflxext.com/ffe/siteui/vlv3/701eec50-4b87-4dc0-9d00-b0f54025dc36/a3e73768-e367-4f45-b205-f9dd8b45fb7e/PK-en-20220905-popsignuptwoweeks-perspective_alpha_website_large.jpg) ;
+
+
+   
+}
+
+.navbar{
+   display: flex;
+   justify-content: space-between;
+}
+
+.netflix-logo img{
+ 
+    width: 100px;
+    height: 100px;
+    line-height: normal;
+    color: #e50914;
+
+   
+}
+
+
+button{
+    padding: 7px 17px;
+    margin: 30px;
+    background-color: #e50914;
+    color: white;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: normal;
+    
+
+}
+
+.main-tittle{
+    display: flex;
+    justify-content: center;
+    font-size: 3.125rem;
+    color: white;
+}
+
+
+.main-subtittle{
+    display: flex;
+    justify-content: center;
+    font-size: 1.625rem;
+    color: white;
+}
+
+
+.main-para{
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+    max-width: none;
+    padding-bottom: 20px ;
+    color: white;
+}
+
+.email{
+   padding: 20px 75px;
+   text-align:center;
+   
+}
+
+.email-button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+
+.email-button
+{
+
+    height:48px ;
+    /* padding: 10px 10px 0px ; */
+    width: 100%;
+    margin: auto;
+    border-radius: 2px;
+    box-sizing: border-box;
+    font-size: 16px;
+    /* line-height: normal; */
+    /* flex: 1 1 auto; */
+    padding-top: 10px;
+    
+}
+
+.get-started-btn
+{
+    
+    font-size: large;
+        background-color: #e50914;
+    color: white ;
+    padding: 18px 30px;
+}
+
+.line
+{
+  
+    background: transparent;
+    border-bottom: 8px solid #222;
+    color: #fff;
+    margin-bottom: 0;
+    
+    position: relative;
+
+}
+
+
+.box
+{
+color: white;
+font-size: 1.125rem;
+background-color: black;
+width: 100%;
+height: 100%;
+}
+
+.box1 
+{
+    display: flex;
+    justify-content: center;
+    height: 425px;
+   
+}
+
+.box1-text
+{
+    padding-top: 150px;
+}
+
+.box2
+{
+    display: flex;
+    justify-content: center;
+}
+
+
+.box2-text
+{
+    padding-top: 190px;
+}
+
+.box3 
+{
+    padding: 70px;
+    box-sizing: border-box;
+    
+}
+
+.box3 ,h1 ,h2
+{
+    padding-left: 90px;
+}
+
+.box4
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.box4-text
+{
+    padding-top: 180px;
+}
+
+.faq-main , .faq-last-para
+{
+    text-align: center;
+}
+
+.faq-parent
+{
+    width: 100%;
+}
+
+.faq-child
+{
+    width: 60%;
+    background-color: #222;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.faq-child > p
+{
+padding: 20px;
+
+}
+
+.faq-last-para
+{
+    padding-top: 20px;
+}
+
+.footer
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 100px;
+    box-sizing: border-box;
+    color: #737373;
+    
+    
+}
+
+.footer-first
+{
+    padding-top: 100px;
+    
+    padding-left: 100px;
+    color: #737373;
+}
+
+.footer-last
+{
+    padding-bottom: 100px;
+    padding-left: 100px;
+    color: #737373;
+}
